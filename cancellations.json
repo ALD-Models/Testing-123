@@ -100,6 +100,11 @@
         "date": "2024-09-07"
     },
     {
+        "name": "Kate Reed parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-07"
+    },
+    {
         "name": "Klipspringer Lodge parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-07"
@@ -117,6 +122,11 @@
     {
         "name": "Mapule Sindane School parkrun",
         "reason": "Shortage of volunteers",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Montrose Foreshore parkrun",
+        "reason": "Course unsafe or blocked",
         "date": "2024-09-07"
     },
     {
@@ -180,6 +190,11 @@
         "date": "2024-09-07"
     },
     {
+        "name": "Tynwald Park parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-07"
+    },
+    {
         "name": "University of Northampton parkrun",
         "reason": "Mens cycling tour of Britain on site - course not",
         "date": "2024-09-07"
@@ -197,6 +212,11 @@
     {
         "name": "Yarborough Leisure Centre parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Ziegelwiese parkrun",
+        "reason": "AED unavailable",
         "date": "2024-09-07"
     },
     {
@@ -247,6 +267,11 @@
     {
         "name": "Albert Park junior parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-08"
+    },
+    {
+        "name": "Battery Park junior parkrun",
+        "reason": "No Run Directors available",
         "date": "2024-09-08"
     },
     {
