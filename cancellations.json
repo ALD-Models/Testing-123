@@ -50,6 +50,11 @@
         "date": "2024-09-07"
     },
     {
+        "name": "Chain of Lakes parkrun",
+        "reason": "Weather",
+        "date": "2024-09-07"
+    },
+    {
         "name": "Chipping Norton School parkrun",
         "reason": "Core Team Unavailable",
         "date": "2024-09-07"
@@ -165,6 +170,11 @@
         "date": "2024-09-07"
     },
     {
+        "name": "Red Star parkrun",
+        "reason": "Venue unavailable",
+        "date": "2024-09-07"
+    },
+    {
         "name": "Rheinpark parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-07"
@@ -182,6 +192,26 @@
     {
         "name": "Rotherham parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Sandhurst Memorial parkrun",
+        "reason": "Both of our courses are flooded after the rain",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Sanukikodomonokuni parkrun",
+        "reason": "\u71b1\u4e2d\u75c7\u8b66\u6212\u30a2\u30e9\u30fc\u30c8\u304c\u767a\u8868\u3055\u308c\u305f\u305f\u3081",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Shepton Mallet parkrun",
+        "reason": "Shortage of volunteers",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Shongweni parkrun",
+        "reason": "Shortage of volunteers",
         "date": "2024-09-07"
     },
     {
@@ -210,6 +240,11 @@
         "date": "2024-09-07"
     },
     {
+        "name": "Toboshane Valley Estate parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-07"
+    },
+    {
         "name": "Tynwald Park parkrun",
         "reason": "Course unsafe or blocked",
         "date": "2024-09-07"
@@ -217,6 +252,11 @@
     {
         "name": "University of Northampton parkrun",
         "reason": "Mens cycling tour of Britain on site - course not",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "Victoria Dock parkrun",
+        "reason": "Core Volunteer Roles Not Filled On Time",
         "date": "2024-09-07"
     },
     {
@@ -247,6 +287,16 @@
     {
         "name": "Ziegelwiese parkrun",
         "reason": "AED unavailable",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "parkrun Gorz\u00f3w Wielkopolski",
+        "reason": "Shortage of volunteers",
+        "date": "2024-09-07"
+    },
+    {
+        "name": "parkrun Grudzi\u0105dz",
+        "reason": "Shortage of volunteers",
         "date": "2024-09-07"
     },
     {
