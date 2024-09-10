@@ -25,6 +25,11 @@
         "date": "2024-09-14"
     },
     {
+        "name": "Burgess parkrun",
+        "reason": "Venue unavailable",
+        "date": "2024-09-14"
+    },
+    {
         "name": "Caledon Golf Course parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-14"
@@ -62,6 +67,11 @@
     {
         "name": "Gloucester City parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-14"
+    },
+    {
+        "name": "Greenpoint parkrun",
+        "reason": "Major event taking place on the parkrun course.",
         "date": "2024-09-14"
     },
     {
@@ -107,6 +117,11 @@
     {
         "name": "Mattilanniemi parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-14"
+    },
+    {
+        "name": "Moreletapark Gemeente parkrun",
+        "reason": "Due to \"It's A Girl Thing\" conference.",
         "date": "2024-09-14"
     },
     {
@@ -176,6 +191,11 @@
     },
     {
         "name": "Voortrekker Monument parkrun, Pretoria",
+        "reason": "Venue unavailable",
+        "date": "2024-09-14"
+    },
+    {
+        "name": "Warwick Racecourse parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-14"
     },
