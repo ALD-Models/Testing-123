@@ -95,6 +95,11 @@
         "date": "2024-09-14"
     },
     {
+        "name": "Laudium parkrun",
+        "reason": "Venue unavailable",
+        "date": "2024-09-14"
+    },
+    {
         "name": "Laytown Beach parkrun",
         "reason": "High tide",
         "date": "2024-09-14"
@@ -200,6 +205,11 @@
         "date": "2024-09-14"
     },
     {
+        "name": "Tynwald Park parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-14"
+    },
+    {
         "name": "University of Northampton parkrun",
         "reason": "Students Welcome Weekend - course congested",
         "date": "2024-09-14"
@@ -220,6 +230,11 @@
         "date": "2024-09-14"
     },
     {
+        "name": "Warragul parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-14"
+    },
+    {
         "name": "Warwick Racecourse parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-14"
@@ -227,6 +242,11 @@
     {
         "name": "Wilson Botanic parkrun",
         "reason": "Pet Expo in the park",
+        "date": "2024-09-14"
+    },
+    {
+        "name": "Ziegelwiese parkrun",
+        "reason": "AED unavailable",
         "date": "2024-09-14"
     },
     {
@@ -292,6 +312,11 @@
     {
         "name": "Diglis Fields junior parkrun",
         "reason": "Worcester City Run taking place",
+        "date": "2024-09-15"
+    },
+    {
+        "name": "Griffeen junior parkrun",
+        "reason": "event defunct",
         "date": "2024-09-15"
     },
     {
