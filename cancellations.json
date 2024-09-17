@@ -100,6 +100,11 @@
         "date": "2024-09-21"
     },
     {
+        "name": "Northwich parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-21"
+    },
+    {
         "name": "Oakwell Hall parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-21"
@@ -162,6 +167,11 @@
     {
         "name": "York parkrun",
         "reason": "Venue unavailable",
+        "date": "2024-09-21"
+    },
+    {
+        "name": "Ziegelwiese parkrun",
+        "reason": "AED unavailable",
         "date": "2024-09-21"
     },
     {
