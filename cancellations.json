@@ -60,6 +60,11 @@
         "date": "2024-09-21"
     },
     {
+        "name": "Hazelmere Dam parkrun",
+        "reason": "Weather",
+        "date": "2024-09-21"
+    },
+    {
         "name": "Jock Trail parkrun",
         "reason": "Venue unavailable due to colour run taking place",
         "date": "2024-09-21"
@@ -170,6 +175,11 @@
         "date": "2024-09-21"
     },
     {
+        "name": "Warragul parkrun",
+        "reason": "Course unsafe or blocked",
+        "date": "2024-09-21"
+    },
+    {
         "name": "Warwick Racecourse parkrun",
         "reason": "Venue unavailable",
         "date": "2024-09-21"
@@ -187,6 +197,11 @@
     {
         "name": "parkrun Bulwar nad Wis\u0142\u0105",
         "reason": "Og\u0142oszony stan kl\u0119ski \u017cywio\u0142owej na \u015al\u0105sku.",
+        "date": "2024-09-21"
+    },
+    {
+        "name": "parkrun K\u0119dzierzyn-Ko\u017ale",
+        "reason": "Venue unavailable",
         "date": "2024-09-21"
     },
     {
